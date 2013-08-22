@@ -2,7 +2,7 @@
 This is a C++ 11 application that construct the 3D convex hull. The 3D convex hull is constructed from vertices that is generated randomly. The book "[杉原厚吉著 「FORTRAN 計算幾何プログラミング」岩波書店](http://home.mims.meiji.ac.jp/~sugihara/books/sbooks.html, "reference") (Kokichi Sugihara "FORTRAN Computational Geometry")" is referred to make this application.
 
 ##Screen Shot
-![Screen Shot]("https://raw.github.com/takaping/3D_Convex_Hull/master/screen_shot.png")
+![Screen Shot](https://raw.github.com/takaping/3D_Convex_Hull/master/screen_shot.png)
 
 ##Dependency
 * g++ 4.8.1
